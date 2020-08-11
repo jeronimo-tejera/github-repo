@@ -1,0 +1,27 @@
+[
+{
+    "name": "Autos",
+    "description": "Los mejores autos 0km de alta y media gama.",
+    "imgSrc": "img/cat1.jpg"
+},
+{
+    "name": "Juguetes",
+    "description": "Encuentra aqui los mejores precios para niños de cualquier edad.",
+    "imgSrc": "img/cat2.jpg"
+},
+{
+    "name": "Muebles",
+    "description": "Muebles antiguos, nuevos y armables.",
+    "imgSrc": "img/cat3.jpg"
+},
+{
+    "name": "Herramientas",
+    "description": "Herramientas para todo trabajo.",
+    "imgSrc": "img/cat4.jpg"
+},
+{
+    "name": "Electrónica",
+    "description": "No sé si debo hacerlo con todas las categorías, paro acá porque ta....",
+    "imgSrc": "img/cat5.jpg"
+}
+]
